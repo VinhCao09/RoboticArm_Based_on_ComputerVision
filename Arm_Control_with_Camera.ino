@@ -1,12 +1,16 @@
+//@@@@@@@@@@@@###################2024 Coding by VinhCao################@@@@@@@@@@@@//
+//@@@@@@@@@@@@###################ESP32VersionBoard:2.0.6##############@@@@@@@@@@@@//
+//@@@@@@@@@@@@###ESP32Servo by Kevin Harrington, John K. Bennet ver 1.2.1######@@@@@@@@@@@@//
+
 #include <ESP32Servo.h>
 
-// Khởi tạo đối tượng Servo
+// Servo init
 Servo servoX;
 Servo servoY;
 Servo servoZ;
 Servo servoClaw;
 
-// Các chân nối với servo
+//Servo Pin Connect
 const int servoXPin = 27;
 const int servoYPin = 26;
 const int servoZPin = 25;
@@ -19,7 +23,7 @@ void setup() {
   servoZ.attach(servoZPin);
   servoClaw.attach(servoClawPin);
 
-  // Khởi tạo cổng serial
+  //Serial init
   Serial.begin(115200);
 }
 
