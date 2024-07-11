@@ -6,7 +6,7 @@ Robotic Arm Based on computer vision, we are using servo structure and control t
 
 ![images](https://github.com/VinhCao09/RoboticArm_Based_on_ComputerVision/blob/main/images/1.jpg)
 ![images](https://github.com/VinhCao09/RoboticArm_Based_on_ComputerVision/blob/main/images/2.jpg)
-
+![images](https://github.com/VinhCao09/RoboticArm_Based_on_ComputerVision/blob/main/images/3.jpg)
 ## 🚀 About Me
 Hello 👋I am Vinh. I'm studying HCMC University of Technology and Education
 
@@ -77,7 +77,7 @@ python main4.py
 
 *Sơ đồ trục Servo*
 
-![images](https://github.com/VinhCao09/RoboticArm_Based_on_ComputerVision/blob/main/images/3.jpg)
+![images](https://github.com/VinhCao09/RoboticArm_Based_on_ComputerVision/blob/main/images/4.jpg)
 
 ## Authors
 
