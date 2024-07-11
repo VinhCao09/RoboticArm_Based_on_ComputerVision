@@ -75,6 +75,10 @@ run the code.
 python main4.py
 ```
 
+*Sơ đồ trục Servo*
+
+![images](https://github.com/VinhCao09/RoboticArm_Based_on_ComputerVision/blob/main/images/3.jpg)
+
 ## Authors
 
 - [@my_fb](https://www.facebook.com/vcao.vn)
