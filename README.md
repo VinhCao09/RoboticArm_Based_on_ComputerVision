@@ -44,6 +44,36 @@ change the cam_source in the code.
 cam_source = "http://192.168.1.99/hi-images"
 # 0 for camera, 1 for usbcam
 ```
+Change the configuration
+*Then, change the configuration in the python code.*
+```bash
+x_min = 0
+x_mid = 75
+x_max = 150
+
+y_min = 0
+y_mid = 90
+y_max = 180
+
+z_min = 10
+z_mid = 90
+z_max = 180
+
+claw_open_angle = 120
+claw_close_angle = 92
+```
+*//Như của mình là từ góc 92 đến góc 120 độ là tầm hoạt động của cánh tay.*
+
+make sure the com port is correct.
+
+```bash
+ser = serial.Serial('COM5', 115200)
+```
+
+run the code.
+```bash
+python main4.py
+```
 
 ## Authors
 
