@@ -1,5 +1,5 @@
 
-# Robotic Arm Based on Computer Vision. Microcontroller: ESP32
+# 🤖Robotic Arm Based on Computer Vision. Microcontroller: ESP32
 
 Robotic Arm Based on computer vision, we are using servo structure and control the project with computer and connect with ESP32 via Serial. It uses the MediaPipe to detect hand gestures and control Robot Arm.
 
