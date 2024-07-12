@@ -7,22 +7,6 @@ Robotic Arm Based on computer vision, we are using servo structure and control t
 ![images](https://github.com/VinhCao09/RoboticArm_Based_on_ComputerVision/blob/main/images/1.jpg)
 ![images](https://github.com/VinhCao09/RoboticArm_Based_on_ComputerVision/blob/main/images/2.jpg)
 ![images](https://github.com/VinhCao09/RoboticArm_Based_on_ComputerVision/blob/main/images/3.jpg)
-## 🚀 About Me
-Hello 👋I am Vinh. I'm studying HCMC University of Technology and Education
-
-**Major:** Electronics and Telecommunication
-
-**Skill:** 
-
-*- Microcontroller:* ESP32/8266 - ARDUINO - PIC - Raspberry Pi - PLC Rockwell Allen Bradley
-
-*- Programming languages:* C/C++/HTML/CSS/PHP/SQL and
-related Frameworks (Bootstrap)
-
-*- Communication Protocols:* SPI, I2C, UART, CAN
-
-*- Data Trasmissions:* HTTP, TCP/IP, MQTT
-
 
 ## How to use
 
@@ -79,11 +63,25 @@ python main4.py
 
 ![images](https://github.com/VinhCao09/RoboticArm_Based_on_ComputerVision/blob/main/images/4.jpg)
 
+## 🚀 About Me
+Hello 👋I am Vinh. I'm studying HCMC University of Technology and Education
+
+**Major:** Electronics and Telecommunication
+
+**Skill:** 
+
+*- Microcontroller:* ESP32/8266 - ARDUINO - PIC - Raspberry Pi - PLC Rockwell Allen Bradley
+
+*- Programming languages:* C/C++/HTML/CSS/PHP/SQL and
+related Frameworks (Bootstrap)
+
+*- Communication Protocols:* SPI, I2C, UART, CAN
+
+*- Data Trasmissions:* HTTP, TCP/IP, MQTT
 ## Authors
 
 - [@my_fb](https://www.facebook.com/vcao.vn)
 - [@my_email](contact@vinhcaodatabase.com)
-
 
 ## Demo
 
