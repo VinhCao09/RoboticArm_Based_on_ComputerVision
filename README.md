@@ -31,6 +31,7 @@ python -m pip install --upgrade pip
 
 Upload the code to the Arduino
 
+`⚠️Board version esp32 3.0 or higher may cause ledc error. I use version 2.0.6 which is quite good`
 
 Install the required libraries
 ```bash
