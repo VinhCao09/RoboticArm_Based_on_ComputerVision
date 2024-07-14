@@ -120,6 +120,10 @@ related Frameworks (Bootstrap)
 
 ## Demo
 
+👉Click on the icon below to watch the demo video:
+
+[![Watch the video](https://media3.giphy.com/media/A7LF3J4uMJQ4r8ApLg/giphy.gif?cid=6c09b95275l1l3krhehcppcrgllmv64r7jd6py964efin2av&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)](https://www.tiktok.com/@vinhcaoplay/video/7389532656867740944?lang=vi-VN)
+
 https://www.tiktok.com/@vinhcaoplay/video/7389532656867740944?lang=vi-VN
 
 
