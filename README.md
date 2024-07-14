@@ -8,6 +8,20 @@ Robotic Arm Based on computer vision, we are using servo structure and control t
 ![images](https://github.com/VinhCao09/RoboticArm_Based_on_ComputerVision/blob/main/images/2.jpg)
 ![images](https://github.com/VinhCao09/RoboticArm_Based_on_ComputerVision/blob/main/images/3.jpg)
 
+## Version Recommend
+*Version Board:*
+esp32 by Espressif Systems - 2.0.6
+*Version Library:*
+ESP32Servo by Kevin Harrington, Jhon K. Bennet - 1.2.1
+*Version Python:*
+3.8.1 - https://www.npackd.org/p/org.python.Python64/3.8.1
+*Version Pip:*
+24.1.2 
+Upgrade pip:
+```bash
+python -m pip install --upgrade pip
+```
+
 ## How to use
 
 Upload the code to the Arduino
