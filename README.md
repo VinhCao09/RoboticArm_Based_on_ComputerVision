@@ -88,7 +88,13 @@ run the code.
 python main4.py
 ```
 
-*Sơ đồ trục Servo*
+*Sơ đồ trục Servo và kết nối*
+
+✔️Please read the code to connect the servo pins.
+
+✔️Please use 5V power for Servo (use external power, do not use power directly on the ESP32 board).
+
+✔️Make sure that the ESP32 GND and external power source are connected together.
 
 ![images](https://github.com/VinhCao09/RoboticArm_Based_on_ComputerVision/blob/main/images/4.jpg)
 
