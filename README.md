@@ -9,15 +9,20 @@ Robotic Arm Based on computer vision, we are using servo structure and control t
 ![images](https://github.com/VinhCao09/RoboticArm_Based_on_ComputerVision/blob/main/images/3.jpg)
 
 ## Version Recommend
-*Version Board:*
-esp32 by Espressif Systems - 2.0.6
-*Version Library:*
-ESP32Servo by Kevin Harrington, Jhon K. Bennet - 1.2.1
-*Version Python:*
-3.8.1 - https://www.npackd.org/p/org.python.Python64/3.8.1
-*Version Pip:*
-24.1.2 
-Upgrade pip:
+*Version Arduino IDE:*
+`2.3.2`
+
+*Version Board:* esp32 by Espressif Systems - `2.0.6`
+
+*Version Library:* ESP32Servo by Kevin Harrington, Jhon K. Bennet - `1.2.1`
+
+*Version Python:* `3.8.1` - https://www.npackd.org/p/org.python.Python64/3.8.1
+
+*Version Pip:* `24.1.2`
+
+(Python 3.8.1 include pip 19.2.3, you should consider upgrading pip 24.1.2)
+
+Upgrade pip command:
 ```bash
 python -m pip install --upgrade pip
 ```
@@ -27,16 +32,25 @@ python -m pip install --upgrade pip
 Upload the code to the Arduino
 
 
-```bash
-  
-```
 Install the required libraries
 ```bash
 cd python
 pip install -r requirements.txt
 ```
+pyserial 3.5 (recommend)
+```bash
+pip install pyserial
+```
+opencv-python 4.10.0.84 (recommend)
+```bash
+pip install opencv-python
+```
+mediapipe 0.10.14 (recommend)
+```bash
+pip install mediapipe
+```
 
-Set up webcam
+## Set up webcam
 change the cam_source in the code.
 ```bash
 cam_source = "http://192.168.1.99/hi-images"
