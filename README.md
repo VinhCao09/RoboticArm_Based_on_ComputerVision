@@ -26,7 +26,6 @@ Upgrade pip command:
 ```bash
 python -m pip install --upgrade pip
 ```
-
 ## How to use
 
 Upload the code to the Arduino
