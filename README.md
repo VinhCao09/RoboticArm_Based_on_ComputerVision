@@ -96,7 +96,8 @@ python main4.py
 ✔️Make sure that the ESP32 GND and external power source are connected together.
 
 ![images](https://github.com/VinhCao09/RoboticArm_Based_on_ComputerVision/blob/main/images/4.jpg)
-
+![images](https://github.com/VinhCao09/RoboticArm_Based_on_ComputerVision/blob/main/images/5.jpg)
+![images](https://github.com/VinhCao09/RoboticArm_Based_on_ComputerVision/blob/main/images/6.jpg)
 ## 🚀 About Me
 Hello 👋I am Vinh. I'm studying HCMC University of Technology and Education
 
